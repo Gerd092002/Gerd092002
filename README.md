@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Gerd092002</h1>
+<h3 align="center">Programmer | Web Developer</h3>
 
-<!--
-**Gerd092002/Gerd092002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building modern, scalable, and clean web applications.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+I am a passionate Programmer and Web Developer, focused on building efficient, user-friendly, and scalable web applications.  
+I enjoy working on both backend and frontend systems and continuously improving my development skills.
+
+- 💻 Full Stack Development
+- 🚀 Web Application Development
+- 📚 Continuous Learning
+- 🎯 Clean and Maintainable Code Advocate
+
+
+🛠 Tech Stack
+
+Languages
+- PHP  
+- Java  
+- JavaScript  
+- Python  
+- SQL  
+
+Frontend
+- HTML  
+- CSS  
+- TailwindCSS  
+- React  
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gerd092002&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerd092002&layout=compact&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
+</p>
