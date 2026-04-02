@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerd092002</h1>
+<h1 align="center">Hi, I'm Gerd092002</h1>
 <h3 align="center">Programmer | Full-Stack Web Developer</h3>
 
 <p align="center">
@@ -11,21 +11,21 @@
 
 ---
 
-## 👨‍💻 About Me
+About Me
 
 I am a passionate **Programmer and Web Developer**, focused on building efficient, user-friendly, and scalable applications.  
 I enjoy working on both backend and frontend systems while continuously improving my development skills.
 
-- 💻 Full Stack Development  
-- 🚀 Web Application Development  
-- 📚 Continuous Learning  
-- 🎯 Clean & Maintainable Code Advocate  
+- Full Stack Development  
+- Web Application Development  
+- Continuous Learning  
+- Clean & Maintainable Code Advocate  
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
-### 💻 Languages
+💻 Languages
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -34,7 +34,7 @@ I enjoy working on both backend and frontend systems while continuously improvin
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
