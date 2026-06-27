@@ -13,11 +13,11 @@
 
 About Me
 
-Hi! I’m Gerd Garay, a recent Bachelor of Science in Information Technology graduate from Visayas State University, currently based in Isabel, Leyte. I am actively seeking a Frontend Software Developer position where I can apply my skills in creating responsive, user-friendly web applications.
+I'm Gerd Garay, a web developer and software developer based in Isabel, Leyte, Philippines. I build full-stack web applications with a strong focus on clean code, responsive design, and great user experience.
 
-I have experience in frontend development using HTML, CSS, JavaScript, and Tailwind CSS. On the backend, I have worked with Node.js, Express.js, PHP, and MySQL. I am also proficient in tools such as Visual Studio Code and GitHub.
+My primary stack is PHP and Laravel on the backend paired with Tailwind CSS, HTML, and JavaScript on the frontend. I also work with Python for machine learning integrations, have experience with Bootstrap, and am growing my skills in React. All my projects are version-controlled with Git and GitHub.
 
-I am passionate about continuous learning and enjoy solving problems that enhance my technical and analytical skills. I am eager to contribute to a collaborative team environment where I can grow as a developer and help build meaningful digital solutions.
+I recently graduated with a BS in Information Technology from Visayas State University, where my coursework covers Web Development, Networking, and Database Management Systems. I've applied my skills through real-world professional work, academic projects, and a thesis.
 
 - Full Stack Development  
 - Web Application Development  
