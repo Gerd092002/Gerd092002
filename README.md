@@ -17,7 +17,7 @@ I'm Gerd Garay, a web developer and software developer based in Isabel, Leyte, P
 
 My primary stack is PHP and Laravel on the backend paired with Tailwind CSS, HTML, and JavaScript on the frontend. I also work with Python for machine learning integrations, have experience with Bootstrap, and am growing my skills in React. All my projects are version-controlled with Git and GitHub.
 
-I recently graduated with a BS in Information Technology from Visayas State University, where my coursework covers Web Development, Networking, and Database Management Systems. I've applied my skills through real-world professional work, academic projects, and a thesis.
+I am graduated at Visayas State University with a degree of BS in Information Technology, where my coursework covers Web Development, Networking, and Database Management Systems. I've applied my skills through real-world professional work, academic projects, and a thesis.
 
 - Full Stack Development  
 - Web Application Development  
